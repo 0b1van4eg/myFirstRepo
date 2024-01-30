@@ -6,3 +6,6 @@ asdaf
 afafa
 */
 
+const logged = () => {
+    console.log()
+}
