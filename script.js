@@ -7,8 +7,7 @@ afafa
 */
 
 const logged = () => {
-    console.log()
+    console.log('commits')
 }
 
-
-//изменение
+console.log(123);
